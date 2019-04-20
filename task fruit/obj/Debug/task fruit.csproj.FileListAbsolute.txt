@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\task fruit\task fruit\bin\Debug\task fruit.exe.config
+C:\Users\User\source\repos\task fruit\task fruit\bin\Debug\task fruit.exe
+C:\Users\User\source\repos\task fruit\task fruit\bin\Debug\task fruit.pdb
+C:\Users\User\source\repos\task fruit\task fruit\obj\Debug\task fruit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\task fruit\task fruit\obj\Debug\task fruit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task fruit\task fruit\obj\Debug\task fruit.exe
+C:\Users\User\source\repos\task fruit\task fruit\obj\Debug\task fruit.pdb
